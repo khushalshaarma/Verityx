@@ -65,7 +65,7 @@ export function HeroSection() {
         >
           <Link href="/dashboard">
             <Button size="xl" variant="gradient" className="group animate-glow-pulse">
-              Start Humanizing
+              Humanizer
               <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
             </Button>
           </Link>
